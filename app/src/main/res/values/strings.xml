@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kotlin1</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_btn">Abrir formulario</string>
+
+    <string name="form_title">Iniciar sesión</string>
+    <string name="form_username_hint">Usuario</string>
+    <string name="form_email_hint">Email</string>
+    <string name="form_password_hint">Contraseña</string>
+    <string name="form_send_text">Enviar</string>
+
+
+
+
+
+
+    <!--Excepciones-->
+    <string name="err_networkSDK">Versión requerida</string>
+    <string name="err_networkNotAvailable">Lo sentimos, no dispone de conexión</string>
+
+
+
+
+
+
+</resources>
